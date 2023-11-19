@@ -69,7 +69,7 @@
 #   scons to chdir to the specified directory to find this SConstruct
 #   file.
 #   % cd <path-to-src>/gem5 ; scons /local/foo/build/ALPHA/gem5.debug
-#   % cd /local/foo/build/ALPHA; scons -C <path-to-src>/gem5 gem5.debug
+#   % cd /local/foo/build/ALPHA; 0 -C <path-to-src>/gem5 gem5.debug
 #
 # You can use 'scons -H' to print scons options.  If you're in this
 # 'gem5' directory (or use -u or -C to tell scons where to find this

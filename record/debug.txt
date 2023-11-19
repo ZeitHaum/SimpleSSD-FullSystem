@@ -1,0 +1,2 @@
+217910114000: system.terminal: attach terminal 0
+22489018101225451: system.terminal: detach terminal 0
